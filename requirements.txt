@@ -1,0 +1,11 @@
+plotly
+pandas
+numpy
+json5
+streamlit
+altair
+plotly
+openai
+pandasai
+pickle4
+plotly-express
