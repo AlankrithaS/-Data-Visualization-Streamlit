@@ -6,3 +6,5 @@ altair
 plotly-express
 openai
 pandasai==2.0.30
+openpyxl==3.1.2
+PyYAML==6.0.1
