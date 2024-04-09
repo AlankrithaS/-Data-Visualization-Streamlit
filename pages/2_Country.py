@@ -108,8 +108,8 @@ fig.add_trace(
         name="Male",
         orientation="h",
         marker=dict(
-            color="rgba(0, 135, 62, 0.6)",
-            line=dict(color="rgba(0, 135, 62, 1.0)", width=3),
+            color="rgba(255, 255, 255, 0.6)",  # Changed color to white
+            line=dict(color="rgba(255, 255, 255, 1.0)", width=3),  # Changed line color to white
         ),
     )
 )
@@ -120,8 +120,8 @@ fig.add_trace(
         name="Female",
         orientation="h",
         marker=dict(
-            color="rgba(0, 135, 62, 0.6)",
-            line=dict(color="rgba(0, 135, 62, 1.0)", width=3),
+            color="rgba(255, 255, 255, 0.6)",  # Changed color to white
+            line=dict(color="rgba(255, 255, 255, 1.0)", width=3),  # Changed line color to white
         ),
     )
 )
