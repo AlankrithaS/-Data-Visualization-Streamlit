@@ -80,8 +80,8 @@ fig.add_trace(
         showlegend=False,
         orientation="h",
         marker=dict(
-            color="rgba(102, 51, 0, 1)",
-            line=dict(color="rgba(102, 51, 0, 1.0)", width=3),
+            color="rgba(255, 255, 255, 1)",  # Changed color to white
+            line=dict(color="rgba(255, 255, 255, 1.0)", width=3),  # Changed line color to white
         ),
     )
 )
@@ -92,11 +92,12 @@ fig.add_trace(
         x=x2_tree_trunk,
         orientation="h",
         marker=dict(
-            color="rgba(102, 51, 0, 1)",
-            line=dict(color="rgba(102, 51, 0, 1.0)", width=3),
+            color="rgba(255, 255, 255, 1)",  # Changed color to white
+            line=dict(color="rgba(255, 255, 255, 1.0)", width=3),  # Changed line color to white
         ),
     )
 )
+
 
 
 # Population Data
