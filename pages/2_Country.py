@@ -47,7 +47,7 @@ st.markdown(
 
 
 st.markdown(
-    "<h1 style='text-align: center;'>Verticle and horizontal Bar Graph</h1>", unsafe_allow_html=True
+    "<h1 style='text-align: center;'>Scatter plot and Bar Graph</h1>", unsafe_allow_html=True
 )
 st.write("")
 
