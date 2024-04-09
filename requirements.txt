@@ -1,6 +1,6 @@
 plotly==5.20.0
 pandas==2.2.1
-numpy==numpy 1.26.4
+numpy==1.26.4
 streamlit
 altair
 plotly-express==0.4.1
