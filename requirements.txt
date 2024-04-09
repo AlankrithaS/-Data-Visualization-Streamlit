@@ -1,11 +1,8 @@
-plotly
-pandas
-numpy
-json5
+plotly==5.20.0
+pandas==2.2.1
+numpy==numpy 1.26.4
 streamlit
 altair
-plotly
+plotly-express==0.4.1
 openai
-pandasai
-pickle4
-plotly-express
+pandasai==1.4.10
