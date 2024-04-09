@@ -5,4 +5,4 @@ streamlit
 altair
 plotly-express==0.4.1
 openai
-pandasai==1.4.10
+pandasai==2.0.30
