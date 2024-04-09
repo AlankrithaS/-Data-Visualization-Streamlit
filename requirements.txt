@@ -1,8 +1,8 @@
-plotly==5.20.0
-pandas==2.2.1
+plotly
+pandas
 numpy==1.26.4
 streamlit
 altair
-plotly-express==0.4.1
+plotly-express
 openai
 pandasai==2.0.30
