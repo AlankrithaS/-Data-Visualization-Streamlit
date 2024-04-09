@@ -163,7 +163,7 @@ fig.update_layout(
     ),
     paper_bgcolor="rgba(0,0,0,0)",
     plot_bgcolor="rgba(0,0,0,0)",
-    title="🎇",
+    title="✨",
     title_font_size=24,
     title_x=0.535,
     title_y=0.91,
