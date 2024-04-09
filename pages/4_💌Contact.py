@@ -1,4 +1,4 @@
-eimport streamlit as st
+import streamlit as st
 
 st.header(":mailbox: Get in Touch with me!")
 # https://streamlit-emoji-shortcodes-streamlit-app-gwckff.streamlit.app/
